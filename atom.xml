@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wu Kefei&#39;s Blog</title>
+  
+  <subtitle>Welcome!</subtitle>
+  <link href="https://wukefeilucy.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wukefeilucy.github.io/"/>
+  <updated>2020-12-14T14:20:30.970Z</updated>
+  <id>https://wukefeilucy.github.io/</id>
+  
+  <author>
+    <name>Lucy Wu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Blog</title>
+    <link href="https://wukefeilucy.github.io/2020/12/08/First-Blog/"/>
+    <id>https://wukefeilucy.github.io/2020/12/08/First-Blog/</id>
+    <published>2020-12-08T13:24:40.000Z</published>
+    <updated>2020-12-14T14:20:30.970Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Justice-first-article"><a href="#Justice-first-article" class="headerlink" title="Justice-first article"></a>Justice-first article</h1><p>The article records the reaction of firms and normal citizens after a hurricane. Prices of products and services were increased to an unimaginable level. Here are some of my thoughts.</p><blockquote><p>Here the government is not considered for some reason.</p></blockquote><h2 id="THE-RISE-OF-PRICE-IS-A-NORMAL-CONDITION"><a href="#THE-RISE-OF-PRICE-IS-A-NORMAL-CONDITION" class="headerlink" title="THE RISE OF PRICE IS A NORMAL CONDITION."></a>THE RISE OF PRICE IS A NORMAL CONDITION.</h2><p>After the disaster, the shortage of goods is more serious than before. As a result, although people have a large demand of goods and services, the supply cannot actually meet the need. In this case, a selection is needed to choose some of the customers. Increase of price then comes out as a solution.<br>In fact, even without the disaster, the rise in price is happening every day. The disaster simply makes the process hundreds of times faster, since the merchants sell $2 ice bags for $10.</p><h2 id="STANDING-IN-FIRMS’-SHOES"><a href="#STANDING-IN-FIRMS’-SHOES" class="headerlink" title="STANDING IN FIRMS’ SHOES"></a>STANDING IN FIRMS’ SHOES</h2><p>The purpose of the firms is to earn profit, or they would not have existed  anyway. They see a chance of making more money after the struck of hurricane, so they would like to try to make more profit. Increasing supply appears to be a mission impossible at that time, for instance, construction companies cannot have enough workers for all the repairing tasks. Increasing prices seems to be a convenient choice for firms to limit the order they receive and make sure they earn more at the same time.</p><h2 id="AS-A-NORMAL-CITIZEN"><a href="#AS-A-NORMAL-CITIZEN" class="headerlink" title="AS A NORMAL CITIZEN"></a>AS A NORMAL CITIZEN</h2><p>The citizens actually experienced the biggest loss in the disaster. They had their houses or flats broken, cars flooded and notes all wet. Most of them did not have so much to pay for those products they had had the ability to afford. Only those who have noticeable amount of savings can afford the modernization and other services. In fact, the increase in price can be quite unfair to poor people.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;Justice-first-article&quot;&gt;&lt;a href=&quot;#Justice-first-article&quot; class=&quot;headerlink&quot; title=&quot;Justice-first article&quot;&gt;&lt;/a&gt;Justice-first article&lt;/</summary>
+      
+    
+    
+    
+    <category term="Book" scheme="https://wukefeilucy.github.io/categories/Book/"/>
+    
+    
+    <category term="books Justice" scheme="https://wukefeilucy.github.io/tags/books-Justice/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wukefeilucy.github.io/2020/12/07/hello-world/"/>
+    <id>https://wukefeilucy.github.io/2020/12/07/hello-world/</id>
+    <published>2020-12-06T17:25:15.853Z</published>
+    <updated>2020-12-06T17:25:15.853Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
