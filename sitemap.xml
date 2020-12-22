@@ -66,10 +66,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://wukefeilucy.github.io/tags/Justice/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://wukefeilucy.github.io/categories/Book/</loc>
+    <lastmod>2020-12-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wukefeilucy.github.io/categories/Justice/</loc>
     <lastmod>2020-12-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
