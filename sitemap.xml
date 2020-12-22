@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://wukefeilucy.github.io/blogmodule.html</loc>
+    
+    <lastmod>2020-12-22</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wukefeilucy.github.io/2020/12/08/First-Blog/</loc>
     
     <lastmod>2020-12-14</lastmod>
@@ -66,24 +73,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://wukefeilucy.github.io/tags/Justice/</loc>
-    <lastmod>2020-12-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://wukefeilucy.github.io/categories/Book/</loc>
-    <lastmod>2020-12-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wukefeilucy.github.io/categories/Justice/</loc>
     <lastmod>2020-12-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
