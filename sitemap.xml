@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wukefeilucy.github.io/2021/02/07/2021:2:7/</loc>
+    
+    <lastmod>2021-02-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://wukefeilucy.github.io/2021/02/03/2021:2:3/</loc>
     
     <lastmod>2021-02-03</lastmod>
@@ -94,6 +101,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://wukefeilucy.github.io/tags/study-experience/</loc>
+    <lastmod>2021-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -105,6 +119,13 @@
   
   <url>
     <loc>https://wukefeilucy.github.io/categories/passages/</loc>
+    <lastmod>2021-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://wukefeilucy.github.io/categories/study-experience/</loc>
     <lastmod>2021-02-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
